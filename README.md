@@ -1,6 +1,6 @@
-## Signage Map of IIT Bombay
-# Map of Signages at IIT Bombay
-# done as a part of information design workshop.
+# Signage Map of IIT Bombay
+## Map of Signages at IIT Bombay
+## done as a part of information design workshop.
 by
 Akvil Sakhare, Ashish Kumar, Jitesh Kamble, Palash Bawankar and Salik Ansar
 
